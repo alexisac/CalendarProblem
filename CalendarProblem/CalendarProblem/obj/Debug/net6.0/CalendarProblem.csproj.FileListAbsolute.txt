@@ -1,0 +1,15 @@
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\obj\Debug\net6.0\CalendarProblem.csproj.AssemblyReference.cache
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\obj\Debug\net6.0\CalendarProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\obj\Debug\net6.0\CalendarProblem.AssemblyInfoInputs.cache
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\obj\Debug\net6.0\CalendarProblem.AssemblyInfo.cs
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\obj\Debug\net6.0\CalendarProblem.csproj.CoreCompileInputs.cache
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\bin\Debug\net6.0\CalendarProblem.exe
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\bin\Debug\net6.0\CalendarProblem.deps.json
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\bin\Debug\net6.0\CalendarProblem.runtimeconfig.json
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\bin\Debug\net6.0\CalendarProblem.dll
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\bin\Debug\net6.0\CalendarProblem.pdb
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\obj\Debug\net6.0\CalendarProblem.dll
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\obj\Debug\net6.0\refint\CalendarProblem.dll
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\obj\Debug\net6.0\CalendarProblem.pdb
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\obj\Debug\net6.0\CalendarProblem.genruntimeconfig.cache
+D:\Git Public Repositories\CalendarProblem\CalendarProblem\CalendarProblem\obj\Debug\net6.0\ref\CalendarProblem.dll
